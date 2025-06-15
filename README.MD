@@ -1,4 +1,4 @@
-Aplicación web para la gestión de libros y autores
+Aplicación web para la gestión y autenticación de libros y autores
 Esta aplicación web ofrece un sistema seguro e integral para la gestión de libros y autores.
 
 Características de la aplicación:
